@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Downloaded MMS files are written here by the system before we read and store them. -->
+<paths>
+    <cache-path name="mms" path="mms/" />
+    <!-- Copies of received attachments, handed to viewer apps -->
+    <cache-path name="share" path="share/" />
+</paths>
